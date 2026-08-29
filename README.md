@@ -109,7 +109,3 @@ Publication régionale papier et numérique, arbitrage sur les nomenclatures d'a
 - Données : PostgreSQL, Snowflake, Oracle, Access, Talend, FME
 - Restitution : Power BI, Tableau, Shiny, Dash, Streamlit, Bokeh, QGIS, Sphinx
 - Mobile : React Native (Expo), SQLite
-
----
-
-Ouvert aux opportunités à Nantes, Rennes, Saint-Brieuc, Tours et Brest.
