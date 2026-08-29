@@ -9,7 +9,7 @@ Université de Rennes, 2024-2026
 
 ### Économétrie et inférence causale
 
-- [Chômage départemental](https://github.com/LeandreGachet/determinants-chomage-departemental) : endogénéité, régressions pénalisées, Double Machine Learning
+- [Chômage départemental](https://github.com/LeandreGachet/determinants-chomage-departemental) : endogénéité, régressions pénalisées, double machine learning
 - [CO₂ des régions européennes](https://github.com/LeandreGachet/econometrie-spatiale-co2-europe) : dépendance spatiale, SAR/SEM/SDM, impacts directs et indirects ([rapport en ligne](https://leandregachet.github.io/econometrie-spatiale-co2-europe/))
 - [Perception du risque environnemental](https://github.com/LeandreGachet/choix-discrets-perception-risque) : régression ordinale, pentes proportionnelles, multinomial ([rapport en ligne](https://leandregachet.github.io/choix-discrets-perception-risque/))
 - [Richesse et empreinte carbone](https://github.com/LeandreGachet/developpement-economique-empreinte-carbone) : courbe de Kuznets, test de Chow reconstruit depuis sa formule
