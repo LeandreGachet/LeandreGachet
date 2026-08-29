@@ -3,7 +3,7 @@
 **Master Mathématiques appliquées et statistique — parcours Science des données, statistique et économétrie**<br>
 Université de Rennes · 2024-2026
 
-Mes projets couvrent la chaîne du travail sur données : concevoir une enquête ou automatiser une collecte, structurer et modéliser, puis livrer un tableau de bord ou une application.
+Économétrie et inférence causale, apprentissage automatique, séries temporelles, traitement du langage — avec l'ingénierie des données et les outils de restitution qui les accompagnent.
 
 📄 **Rapports consultables directement dans le navigateur** : [survie](https://leandregachet.github.io/analyse-survie-attrition-client/) · [spatial](https://leandregachet.github.io/econometrie-spatiale-co2-europe/) · [réseaux](https://leandregachet.github.io/reseaux-transferts-football/) · [choix discrets](https://leandregachet.github.io/choix-discrets-perception-risque/) · [olympiades](https://leandregachet.github.io/dataviz-medailles-olympiques/) · [établissements de santé](https://leandregachet.github.io/analyse-etablissements-sante/) · [parc automobile](https://leandregachet.github.io/serie-temporelle-parc-automobile/)
 
