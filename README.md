@@ -1,6 +1,6 @@
 ## Léandre Gachet
 
-**Master Mathématiques appliquées et statistique — parcours Science des données, statistique et économétrie**
+**Master Mathématiques appliquées et statistique — parcours Science des données, statistique et économétrie**<br>
 Université de Rennes · 2024-2026
 
 Je construis des modèles, et les outils qui les rendent utilisables. Mes projets vont de l'inférence causale à la mise en production d'un tableau de bord — parce qu'un modèle que personne n'ouvre ne sert à rien.
