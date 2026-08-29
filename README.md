@@ -5,7 +5,7 @@ Université de Rennes, 2024-2026
 
 Économétrie et inférence causale, apprentissage automatique, séries temporelles, traitement du langage. Avec l'ingénierie des données et les outils de restitution qui vont avec.
 
-Sept rapports se lisent directement dans le navigateur, sans rien installer : [survie](https://leandregachet.github.io/analyse-survie-attrition-client/), [spatial](https://leandregachet.github.io/econometrie-spatiale-co2-europe/), [réseaux](https://leandregachet.github.io/reseaux-transferts-football/), [choix discrets](https://leandregachet.github.io/choix-discrets-perception-risque/), [olympiades](https://leandregachet.github.io/dataviz-medailles-olympiques/), [établissements de santé](https://leandregachet.github.io/analyse-etablissements-sante/) et [parc automobile](https://leandregachet.github.io/serie-temporelle-parc-automobile/).
+Rapports en ligne : [survie](https://leandregachet.github.io/analyse-survie-attrition-client/), [spatial](https://leandregachet.github.io/econometrie-spatiale-co2-europe/), [réseaux](https://leandregachet.github.io/reseaux-transferts-football/), [choix discrets](https://leandregachet.github.io/choix-discrets-perception-risque/), [olympiades](https://leandregachet.github.io/dataviz-medailles-olympiques/), [établissements de santé](https://leandregachet.github.io/analyse-etablissements-sante/) et [parc automobile](https://leandregachet.github.io/serie-temporelle-parc-automobile/).
 
 ---
 
