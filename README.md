@@ -20,6 +20,7 @@ Je construis des modèles, et les outils qui les rendent utilisables. Mes projet
 | **[Production et masse monétaire](https://github.com/LeandreGachet/macroeconomie-production-masse-monetaire)** | Corrélations glissantes, **résultat négatif documenté** |
 | **[Demande alimentaire](https://github.com/LeandreGachet/demande-alimentaire-elasticites-prix)** | Modèle Stone-Geary à deux niveaux, élasticités et substitution |
 | **[Logement en conteneurs](https://github.com/LeandreGachet/etude-marche-logement-conteneurs)** | Étude de marché sur données européennes, présentée en anglais |
+| **[Santé du secteur de la bière](https://github.com/LeandreGachet/analyse-sectorielle-biere)** | Diagnostic sectoriel par croisement ACOSS-URSSAF et INSEE |
 
 ### 🤖 Apprentissage automatique
 
@@ -46,6 +47,7 @@ Je construis des modèles, et les outils qui les rendent utilisables. Mes projet
 |---|---|
 | **[Perception de l'IA dans les médias](https://github.com/LeandreGachet/perception-ia-medias)** | Corpus multi-API, TF-IDF, clustering interprété par modèle de langage |
 | **[Décarbonation d'un CHU](https://github.com/LeandreGachet/decarbonation-chu-rennes)** | Plongements sémantiques, recherche hybride, LLM, Streamlit |
+| **[COVID : presse contre science](https://github.com/LeandreGachet/discours-covid-presse-science)** | 157 000 textes, MiniLM, VADER, **distance sémantique dans le temps** |
 
 ### 🗄️ Ingénierie des données et bases
 
@@ -78,6 +80,7 @@ Je construis des modèles, et les outils qui les rendent utilisables. Mes projet
 | **[Accidentologie routière](https://github.com/LeandreGachet/tableau-de-bord-accidentologie)** | Cinq sources jointes, trois échelles, comparaison en proportions |
 | **[Vélos en libre-service](https://github.com/LeandreGachet/tableau-de-bord-velos-libre-service)** | Flux temps réel accumulé, rythmes d'occupation des stations |
 | **[Facteurs de mortalité](https://github.com/LeandreGachet/facteurs-de-mortalite-monde)** | Transition épidémiologique, projet mené en anglais |
+| **[Parts de marché Sodebo](https://github.com/LeandreGachet/datavisualisation-sodebo)** | Outil livré à un client réel : navigation et notice intégrées |
 
 ### 📋 Enquêtes et conduite de projet
 
