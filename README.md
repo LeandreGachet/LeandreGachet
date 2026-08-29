@@ -5,15 +5,13 @@ Université de Rennes, 2024-2026
 
 Économétrie et inférence causale, apprentissage automatique, séries temporelles, traitement du langage. Avec l'ingénierie des données et les outils de restitution qui vont avec.
 
-Rapports en ligne : [survie](https://leandregachet.github.io/analyse-survie-attrition-client/), [spatial](https://leandregachet.github.io/econometrie-spatiale-co2-europe/), [réseaux](https://leandregachet.github.io/reseaux-transferts-football/), [choix discrets](https://leandregachet.github.io/choix-discrets-perception-risque/), [olympiades](https://leandregachet.github.io/dataviz-medailles-olympiques/), [établissements de santé](https://leandregachet.github.io/analyse-etablissements-sante/) et [parc automobile](https://leandregachet.github.io/serie-temporelle-parc-automobile/).
-
 ---
 
 ### Économétrie et inférence causale
 
 - [Chômage départemental](https://github.com/LeandreGachet/determinants-chomage-departemental) : endogénéité, régressions pénalisées, Double Machine Learning
-- [CO₂ des régions européennes](https://github.com/LeandreGachet/econometrie-spatiale-co2-europe) : dépendance spatiale, SAR/SEM/SDM, impacts directs et indirects
-- [Perception du risque environnemental](https://github.com/LeandreGachet/choix-discrets-perception-risque) : régression ordinale, pentes proportionnelles, multinomial
+- [CO₂ des régions européennes](https://github.com/LeandreGachet/econometrie-spatiale-co2-europe) : dépendance spatiale, SAR/SEM/SDM, impacts directs et indirects ([rapport en ligne](https://leandregachet.github.io/econometrie-spatiale-co2-europe/))
+- [Perception du risque environnemental](https://github.com/LeandreGachet/choix-discrets-perception-risque) : régression ordinale, pentes proportionnelles, multinomial ([rapport en ligne](https://leandregachet.github.io/choix-discrets-perception-risque/))
 - [Richesse et empreinte carbone](https://github.com/LeandreGachet/developpement-economique-empreinte-carbone) : courbe de Kuznets, test de Chow reconstruit depuis sa formule
 - [Production et masse monétaire](https://github.com/LeandreGachet/macroeconomie-production-masse-monetaire) : corrélations glissantes, résultat négatif documenté
 - [Demande alimentaire](https://github.com/LeandreGachet/demande-alimentaire-elasticites-prix) : modèle Stone-Geary à deux niveaux, élasticités et substitution
@@ -23,7 +21,7 @@ Rapports en ligne : [survie](https://leandregachet.github.io/analyse-survie-attr
 ### Apprentissage automatique
 
 - [Détection de fraude bancaire](https://github.com/LeandreGachet/detection-fraude-bnp) : événement rare (1,4 %), ensembling, 77ᵉ au challenge BNP Paribas
-- [Attrition par analyse de survie](https://github.com/LeandreGachet/analyse-survie-attrition-client) : Kaplan-Meier, Cox, hypothèse des risques proportionnels
+- [Attrition par analyse de survie](https://github.com/LeandreGachet/analyse-survie-attrition-client) : Kaplan-Meier, Cox, hypothèse des risques proportionnels ([rapport en ligne](https://leandregachet.github.io/analyse-survie-attrition-client/))
 - [Accidents routiers](https://github.com/LeandreGachet/ml-accidents-routiers) : ACP, quatre méthodes de clustering, six modèles supervisés
 - [Prévision météo par LSTM](https://github.com/LeandreGachet/prevision-meteo-lstm) : régression et classification sur la même série
 - [Morphologie d'oiseaux](https://github.com/LeandreGachet/classification-morphologie-oiseaux) : k-means, CAH de Ward et mélange gaussien EM, comparés
@@ -32,7 +30,7 @@ Rapports en ligne : [survie](https://leandregachet.github.io/analyse-survie-attr
 
 - [Prévision hiérarchique](https://github.com/LeandreGachet/prevision-hierarchique-population-carcerale) : 32 séries, approche ascendante, propagation de l'incertitude
 - [Série industrielle par Box-Jenkins](https://github.com/LeandreGachet/prevision-arima-serie-industrielle) : Zivot-Andrews, ADF, KPSS, différenciation saisonnière
-- [Parc automobile 1994-2021](https://github.com/LeandreGachet/serie-temporelle-parc-automobile) : Buys-Ballot, schéma additif ou multiplicatif, décomposition
+- [Parc automobile 1994-2021](https://github.com/LeandreGachet/serie-temporelle-parc-automobile) : Buys-Ballot, schéma additif ou multiplicatif, décomposition ([rapport en ligne](https://leandregachet.github.io/serie-temporelle-parc-automobile/))
 - [Tableau de bord conjoncturel](https://github.com/LeandreGachet/tableau-de-bord-conjoncturel) : indicateurs avancés et coïncidents choisis pour un industriel
 
 ### Traitement du langage
@@ -53,13 +51,13 @@ Rapports en ligne : [survie](https://leandregachet.github.io/analyse-survie-attr
 - [ACP programmée à la main](https://github.com/LeandreGachet/acp-implementation-r) : triplet (X, Q, D), diagonalisation, normalisation en norme Q
 - [Criminalité aux États-Unis](https://github.com/LeandreGachet/acp-criminalite-etats-unis) : ACP, variables supplémentaires, effet du centrage-réduction
 - [Tests sous SAS](https://github.com/LeandreGachet/tests-statistiques-sas) : Kolmogorov-Smirnov, Cramér-von Mises, Kuiper, ANCOVA, Tukey
-- [Établissements de santé](https://github.com/LeandreGachet/analyse-etablissements-sante) : base administrative nationale, tidyverse, R Markdown
+- [Établissements de santé](https://github.com/LeandreGachet/analyse-etablissements-sante) : base administrative nationale, tidyverse, R Markdown ([rapport en ligne](https://leandregachet.github.io/analyse-etablissements-sante/))
 - [Réussite scolaire](https://github.com/LeandreGachet/facteurs-de-reussite-scolaire) : déterminants familiaux et sociaux, projet mené en anglais
 
 ### Réseaux et visualisation
 
-- [Transferts de football](https://github.com/LeandreGachet/reseaux-transferts-football) : graphe orienté, centralités, communautés, k-core
-- [Médailles olympiques](https://github.com/LeandreGachet/dataviz-medailles-olympiques) : tableau de bord autonome, cartographie, filtres côté navigateur
+- [Transferts de football](https://github.com/LeandreGachet/reseaux-transferts-football) : graphe orienté, centralités, communautés, k-core ([rapport en ligne](https://leandregachet.github.io/reseaux-transferts-football/))
+- [Médailles olympiques](https://github.com/LeandreGachet/dataviz-medailles-olympiques) : tableau de bord autonome, cartographie, filtres côté navigateur ([rapport en ligne](https://leandregachet.github.io/dataviz-medailles-olympiques/))
 - [Interventions de pompiers](https://github.com/LeandreGachet/application-shiny-interventions-pompiers) : application Shiny, graphique adapté au type de variable
 - [Pesticides en France](https://github.com/LeandreGachet/dataviz-pesticides-france) : carte interactive par année, saison et substance active
 - [Accidentologie routière](https://github.com/LeandreGachet/tableau-de-bord-accidentologie) : cinq sources jointes, trois échelles, comparaison en proportions
