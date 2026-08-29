@@ -46,7 +46,6 @@ Je construis des modèles, et les outils qui les rendent utilisables. Mes projet
 | Projet | Ce qu'il traite |
 |---|---|
 | **[Perception de l'IA dans les médias](https://github.com/LeandreGachet/perception-ia-medias)** | Corpus multi-API, TF-IDF, clustering interprété par modèle de langage |
-| **[Décarbonation d'un CHU](https://github.com/LeandreGachet/decarbonation-chu-rennes)** | Plongements sémantiques, recherche hybride, LLM, Streamlit |
 | **[COVID : presse contre science](https://github.com/LeandreGachet/discours-covid-presse-science)** | 157 000 textes, MiniLM, VADER, **distance sémantique dans le temps** |
 
 ### 🗄️ Ingénierie des données et bases
