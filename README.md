@@ -99,7 +99,13 @@ Je construis des modèles, et les outils qui les rendent utilisables. Mes projet
 
 ### 🔬 Projets personnels
 
-*À venir.*
+| Projet | Ce qu'il traite |
+|---|---|
+| **[Pronostics Coupe du monde](https://github.com/LeandreGachet/mpp-pronostics-coupe-du-monde)** | GLM de Poisson, **optimisation d'espérance sur cotes réelles**, backtest walk-forward |
+| **[Maison](https://github.com/LeandreGachet/maison-app)** | Application Android : stock, dressing, ménage, agenda — 27 services métier |
+| **[Rentabilité horaire](https://github.com/LeandreGachet/optimisation-rentabilite-gta-online)** | Modèle Excel : 426 formules, coûts et temps que personne n'affiche |
+| **[Coût d'un trajet](https://github.com/LeandreGachet/cout-trajet-par-type-de-route)** | Consommation déduite du type de route, segment par segment |
+| **[Aléatoire](https://github.com/LeandreGachet/app-aleatoire)** | Tirages au sort avec historique persistant — React Native, SQLite |
 
 ---
 
@@ -121,10 +127,11 @@ Publication régionale papier et numérique, arbitrage sur les nomenclatures d'a
 
 ### Outils
 
-**Langages** — Python · R · SQL · SAS · VBA
+**Langages** — Python · R · SQL · SAS · TypeScript · VBA
 **Modélisation** — scikit-learn · XGBoost · LightGBM · CatBoost · TensorFlow/Keras · survival · spdep · plm · DoubleML · FactoMineR · mclust · forecast
 **Données** — PostgreSQL · Snowflake · Oracle · Access · Talend · FME
 **Restitution** — Power BI · Tableau · Shiny · Dash · Streamlit · Bokeh · QGIS · Sphinx
+**Mobile** — React Native (Expo) · SQLite
 
 ---
 
