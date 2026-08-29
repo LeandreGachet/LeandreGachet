@@ -88,6 +88,7 @@ Je construis des modèles, et les outils qui les rendent utilisables. Mes projet
 |---|---|
 | **[Enquête réseaux sociaux](https://github.com/LeandreGachet/enquete-reseaux-sociaux-aesv)** | Chaîne complète sous Sphinx, 360 répondants, 59 variables |
 | **[Enquête de terrain](https://github.com/LeandreGachet/enquete-terrain-pratiques-musicales)** | Compte rendu critique : ce que les conditions de collecte abîment |
+| **[Infographie plogging](https://github.com/LeandreGachet/infographie-plogging)** | Données produites sur le terrain, restituées au grand public |
 | **[Simulation de gestion](https://github.com/LeandreGachet/simulation-gestion-entreprise)** | Cinq périodes, prévisionnel puis correction du modèle de marge |
 
 ### 🧮 Programmation
