@@ -111,26 +111,26 @@ Je construis des modèles, et les outils qui les rendent utilisables. Mes projet
 
 ### Expérience
 
-**Data scientist** — AVISIA, conseil en données et IA · mission chez un client du secteur de l'énergie · 6 mois
+**Data scientist** — AVISIA, conseil en données et IA · mission chez un client du secteur de l'énergie · 6 mois<br>
 Score d'attrition client, de la construction de la variable cible jusqu'à l'outil de priorisation livré aux équipes commerciales.
 
-**Analyse et gestion de données géographiques** — ADAC 22 · 3 mois
+**Analyse et gestion de données géographiques** — ADAC 22 · 3 mois<br>
 Automatisation des traitements INSEE, alimentation d'une base PostgreSQL, chaîne de publication cartographique.
 
-**Développeur de solutions de gestion de données** — FC Mordelles · 2 mois
+**Développeur de solutions de gestion de données** — FC Mordelles · 2 mois<br>
 Collecte automatisée, base relationnelle en 13 tables, exécutables autonomes pour un utilisateur non technicien.
 
-**Chargé d'études économiques** — CCI Bretagne · 3 mois
+**Chargé d'études économiques** — CCI Bretagne · 3 mois<br>
 Publication régionale papier et numérique, arbitrage sur les nomenclatures d'activité.
 
 ---
 
 ### Outils
 
-**Langages** — Python · R · SQL · SAS · TypeScript · VBA
-**Modélisation** — scikit-learn · XGBoost · LightGBM · CatBoost · TensorFlow/Keras · survival · spdep · plm · DoubleML · FactoMineR · mclust · forecast
-**Données** — PostgreSQL · Snowflake · Oracle · Access · Talend · FME
-**Restitution** — Power BI · Tableau · Shiny · Dash · Streamlit · Bokeh · QGIS · Sphinx
+**Langages** — Python · R · SQL · SAS · TypeScript · VBA<br>
+**Modélisation** — scikit-learn · XGBoost · LightGBM · CatBoost · TensorFlow/Keras · survival · spdep · plm · DoubleML · FactoMineR · mclust · forecast<br>
+**Données** — PostgreSQL · Snowflake · Oracle · Access · Talend · FME<br>
+**Restitution** — Power BI · Tableau · Shiny · Dash · Streamlit · Bokeh · QGIS · Sphinx<br>
 **Mobile** — React Native (Expo) · SQLite
 
 ---
